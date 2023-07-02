@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/audiowide</item>
+        <item>@font/beth_ellen</item>
+        <item>@font/calistoga</item>
+        <item>@font/combo</item>
+        <item>@font/delius_unicase</item>
+        <item>@font/happy_monkey</item>
+        <item>@font/jolly_lodger</item>
+        <item>@font/unlock</item>
+        <item>@font/zilla_slab_highlight</item>
+    </array>
+</resources>

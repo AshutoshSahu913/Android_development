@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Share quote</string>
+    <string name="quote_sharing_app">Quote Sharing App</string>
+    <string name="quote">"Once an Avenger, always an Avenger!"</string>
+    <string name="sharing_app">SHARING APP</string>
+    <string name="share_option">Share Option</string>
+    <string name="truth_quote">Truth Quote</string>
+    <string name="the_avengers">THE AVENGERS</string>
+</resources>
